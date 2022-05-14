@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>THÀNH VIÊN</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2 align="center" style="font-family: verdana;font-size: 250%; color:red;">GIỚI THIỆU THÀNH VIÊN VÀ PHÂN CÔNG CÔNG VIỆC</h2>
+  <h2 align="center" style="font-family: arial;font-size: 190%; color: blue;"> GIỚI THIỆU THÀNH VIÊN </h2>           
+  <h2 align="left" style="font-family: arial;font-size: 160%; ">
+  <table class="table table-condensed">
+    <thead>
+      <tr>
+        <th>HỌ VÀ TÊN</th>
+        <th>MSSV</th>
+        <th>EMAIL</th>
+        <th>LỚP</th>
+        <th>NGÀNH</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Bùi Thị Ngân Quỳnh</td>
+        <td>B1905975</td>
+        <td>quynhb1905975@student.ctu.edu.vn</td>
+        <td>1983A4</td>
+        <td>Quản lý công nghiệp</td>
+      </tr>
+      <tr>
+        <td>Lâm Ngọc Thể</td>
+        <td>B1905990</td>
+        <td>theb1905990@student.ctu.edu.vn</td>
+        <td>1983A4</td>
+        <td>Quản lý công nghiệp</td>
+      </tr>
+      <tr>
+        <td>Huỳnh Quốc Hải</td>
+        <td>B1905908</td>
+        <td>haib1905908@student.ctu.edu.vn</td>
+        <td>1983A2</td>
+        <td>Quản lý công nghiệp</td>
+      </tr>
+      <tr>
+        <td>Hoàng Lê Khả Vy</td>
+        <td>B1906025</td>
+        <td>vyb1906025@student.ctu.edu.vn</td>
+        <td>1983A5</td>
+        <td>Quản lý công nghiệp</td>
+      </tr>
+      <tr>
+        <td>Nguyễn Thị Bích Trâm</td>
+        <td>B1906009</td>
+        <td>tramb1906009@student.ctu.edu.vn</td>
+        <td>19819833A5</td>
+        <td>Quản lý công nghiệp</td>
+      </tr>
+    </tbody>
+  </table> </h2>
+</div>
+
+<div class="container">
+  <h2 align="center" style="font-family: arial;font-size: 190%; color: blue; "> PHÂN CÔNG CÔNG VIỆC</h2>
+  <h2 align="left" style="font-family: arial;font-size: 160%; ">      
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>TÊN</th>
+        <th>ĐÓNG GÓP</th>
+        <th>CÔNG VIỆC</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Quỳnh</td>
+        <td>100%</td>
+        <td>Thực hiện trang</td>
+      </tr>
+      <tr>
+        <td>Thể</td>
+        <td>100%</td>
+        <td>Thực hiện trang</td>
+      </tr>
+      <tr>
+        <td>Hải</td>
+        <td>100%</td>
+        <td>Thực hiện trang</td>
+      </tr>
+      <tr>
+        <td>Vy</td>
+        <td>100%</td>
+        <td>Thực hiện trang</td>
+      </tr>
+      <tr>
+        <td>Trâm</td>
+        <td>100%</td>
+        <td>Thực hiện trang</td>
+      </tr>
+    </tbody>
+  </table> </h2>
+</div>
+
+
+</body>
+</html>
